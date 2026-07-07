@@ -1,0 +1,42 @@
+{
+  "identifier": "waterlog",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Waterlog Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "waterlog_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks weekly water totals and rainfall correlation charts.",
+              "displayName": "Waterlog Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "waterlog_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Waterlog Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
